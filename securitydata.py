@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+# example taken from : https://access.redhat.com/documentation/en-us/red_hat_security_data_api/0.1/html-single/red_hat_security_data_api/#example_script
+
 from __future__ import print_function
 import sys
 import requests
